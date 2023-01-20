@@ -1,0 +1,1 @@
+O Visual Studio pede para reabri-lo como adm para poder criar um arquivo salvando o dicionario na maquina do usuario
